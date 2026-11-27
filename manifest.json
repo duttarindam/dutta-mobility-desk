@@ -1,0 +1,37 @@
+{
+  "id": "./index.html",
+  "name": "Dutta & Assocs. | Mobility & Chauffeur Desk",
+  "short_name": "Dutta Mobility",
+  "description": "Dutta & Assocs. (2026\u201327) \u2014 Chauffeur Fleet, Driver Services, Offline Quotes, Dispatch & Accounts Portal.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#09090B",
+  "theme_color": "#FACC15",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
